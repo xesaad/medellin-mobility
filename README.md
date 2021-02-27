@@ -5,6 +5,8 @@ This project represents my coursework for the course "Mathematics and Data Scien
 
 My approach was to implement a "gravity model" for mobility in the city, to identify pairs of areas where many commutes "should" be taking place. I then compared this to the actual observed commute numbers to see where an additional metro stop could improve accessibility.
 
+All analysis took place in Python.
+
 This repo contains two documents:
 - `Mobility_report_Barbosa.pdf` is a technical report on the modelling and analysis;
 - `policy_brief.pdf` is a short policy brief, hypothetically intended to be read by the municipality/city councils.
